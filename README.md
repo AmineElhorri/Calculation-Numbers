@@ -1,2 +1,2 @@
-# Calculation-Numbers
-this Project Can help you to Add numbers and multiply numbers and subtract numbers and divide numbers and you can guess what is the result of Operation
+# Calculation Numbers Game (CNG).
+this Project Can help you to Doing the operation of Adding  numbers and multiplying numbers and subtracting numbers and dividing numbers and you can guess what is the result of the Operation you will win a point and the green light will sign in your screen computer , but if you don't guess the result of the operation you will not win any point and red light will sign in your computer screen . 
